@@ -31,6 +31,8 @@ ERD Penjualan Kendaraan
 
 ERD Penjualan Kendaraan.pdf
 
+[FILE.PDF](https://github.com/NurAkbarr/DATABASE_PENJUALAN_KENDARAAN/blob/3a5d732652354f54718776773ebb5f360a294d7c/ERD%20Penjualan%20Kendaraan.pdf)
+
 Dalam ERD tersebut terdapat 5 entitas utama yaitu sebagai berikut :
 
 1. customer
