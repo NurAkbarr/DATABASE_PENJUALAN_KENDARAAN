@@ -29,7 +29,7 @@ Menu
 
 ERD Penjualan Kendaraan
 
-https://github.com/NurAkbarr/DATABASE_PENJUALAN_KENDARAAN/blob/4c7a842664ffb7940c696dddebe836f973401309/ERD%20Penjualan%20Kendaraan.pdf
+ERD Penjualan Kendaraan.pdf
 
 Dalam ERD tersebut terdapat 5 entitas utama yaitu sebagai berikut :
 
