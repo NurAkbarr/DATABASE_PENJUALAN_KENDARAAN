@@ -29,7 +29,7 @@ Menu
 
 ERD Penjualan Kendaraan
 
-[img](gambar/ERD.png)
+[GAMBAR](gambar/ERD.png)
 
 Dalam ERD tersebut terdapat 5 entitas utama yaitu sebagai berikut :
 
